@@ -53,11 +53,11 @@ body {
     font-size: 25px;
     display: inline-block;
     background-color: #74c69d;
-    border: 5px dotted black;
+    border: 5px dotted white;
+    color: white;
+    
 }
 
 #titulo {
     text-align: center;
 }
-
-
