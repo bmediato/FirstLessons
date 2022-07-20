@@ -1,62 +1,81 @@
 * {
- box-sizing: border-box;
- margin: 0;
+  box-sizing: border-box;
+  margin: 0;
 }
 
 body {
- background-color: rgb(253, 251, 251);
- font-family: 'Mukta', sans-serif;
+  background-color: rgb(253, 251, 251);
+  font-family: 'Mukta', sans-serif; 
 }
 
 #cabecalho {
- top: 0;
- background-color: #74c69d;
- font-family: 'Playfair Display', serif;
- padding: 10px;
- margin: 15px;
- color: white;
+  top: 0;
+  background-color: #74c69d;
+  font-family: 'Playfair Display', serif;
+  padding: 10px;
+  margin: 15px;
+  color: white;
 }
 
 #minha_foto {
- width: 180px;
- border-radius: 8%;
+  width: 180px;
+  border-radius: 8%;
 }
 
 #rodape {
- text-align: right;
- margin: 20px;
- font-size: 20px;
- background-color: #74c69d;
- padding: 20px;
- color: white;
+  text-align: right;
+  margin: 20px;
+  font-size: 20px;
+  background-color: #74c69d;
+  padding: 20px;
+  color: white;
 }
 
 .container {
- text-align: center;
- padding: 5px;
- font-size: 25px;
- background-color: #74c69d;
- margin: 60px;
- color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 25px;
+  background-color: #74c69d;
+  margin: 60px;
+  color: white;
 }
 
 .article-small {
- display: inline-block;
- width: 30%;
- line-height: 30px;
- margin: 10px;
+  display: inline-block;
+  width: 30%;
+  line-height: 30px;
+  margin: 10px;
 }
 
 .section {
- margin: 20px;
- padding: 30px;
- font-size: 25px;
- display: inline-block;
- background-color: #74c69d;
- border: 5px dotted white;
- color: white;
+  margin: 20px;
+  padding: 30px;
+  font-size: 25px;
+  display: inline-block;
+  background-color: #74c69d;
+  border: 5px dotted white;
+  color: white;
 }
 
 #titulo {
- text-align: center;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+  font-size: 50px;
+}
+
+table, td {
+  display: inline-block;
+  font-size: 38px;
+  text-align: center;
+  margin: 5px;
+  padding: 15px;
+  background-color: #74c69d;
+  color: white;
+}
+
+td {
+  border: 5px dotted white;
 }
