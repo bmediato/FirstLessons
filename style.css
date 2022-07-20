@@ -10,7 +10,7 @@ body {
 
 #cabecalho {
   top: 0;
-  background-color: #74c69d;
+  background-color: indianred;
   font-family: 'Playfair Display', serif;
   padding: 10px;
   margin: 15px;
@@ -26,7 +26,7 @@ body {
   text-align: right;
   margin: 20px;
   font-size: 20px;
-  background-color: #74c69d;
+  background-color: indianred;
   padding: 20px;
   color: white;
 }
@@ -35,7 +35,7 @@ body {
   text-align: center;
   padding: 5px;
   font-size: 25px;
-  background-color: #74c69d;
+  background-color: indianred;
   margin: 60px;
   color: white;
 }
@@ -52,7 +52,7 @@ body {
   padding: 30px;
   font-size: 25px;
   display: inline-block;
-  background-color: #74c69d;
+  background-color: indianred;
   border: 5px dotted white;
   color: white;
 }
@@ -66,13 +66,13 @@ th {
   font-size: 50px;
 }
 
-table, td {
+table , td {
   display: inline-block;
   font-size: 38px;
   text-align: center;
   margin: 5px;
   padding: 15px;
-  background-color: #74c69d;
+  background-color: indianred;
   color: white;
 }
 
