@@ -5,6 +5,7 @@
 
 body {
   background-color: rgb(253, 251, 251);
+  font-family: monospace
 }
 
 #cabecalho {
@@ -13,6 +14,7 @@ body {
   padding: 10px;
   margin: 15px;
   color: white;
+  position: fixed;
 }
 
 #minha_foto {
